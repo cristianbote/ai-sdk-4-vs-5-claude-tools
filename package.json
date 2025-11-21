@@ -8,10 +8,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@ai-sdk/anthropic": "^2.0.45",
-    "ai": "^5.0.95",
-    "v4-ai": "npm:ai@4.3.16",
+    "v5-antrophic": "npm:@ai-sdk/anthropic@^2.0.45",
+    "v5-ai": "npm:ai@^5.0.95",
     "v4-anthropic": "npm:@ai-sdk/anthropic@1.2.12",
+    "v4-ai": "npm:ai@4.3.16",
+    "v6-anthropic": "npm:@ai-sdk/anthropic@3.0.0-beta.54",
+    "v6-ai": "npm:ai@6.0.0-beta.105",
     "zod": "^3.25.28"
   },
   "keywords": [],
